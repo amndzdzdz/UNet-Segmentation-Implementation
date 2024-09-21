@@ -1,6 +1,6 @@
 # UNet Segmentation
 
-This repository contains an implementation of the UNet model for image segmentation tasks. UNet is a popular convolutional neural network architecture known for its effectiveness in biomedical image segmentation and other segmentation tasks. This implementation is designed to be easily extendable and adaptable to various segmentation problems.
+This repository contains an implementation of the UNet model for image segmentation tasks. UNet is a popular convolutional neural network architecture known for its effectiveness in biomedical image segmentation and other segmentation tasks. This implementation is designed to be easily extendable and adaptable to various segmentation problems. You can read more about UNet in the original paper [here](https://arxiv.org/abs/1505.04597).
 
 ## Project Overview
 
